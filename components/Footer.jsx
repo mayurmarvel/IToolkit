@@ -58,9 +58,9 @@ const Footer = () => {
       </Modal>
 
 
-        <a href="https://github.com/mayurmarvel/IToolkit">Suggest a tool</a>
+        <a href="https://github.com/mayurmarvel/IToolkit#contributions-and-changes">Suggest a tool</a>
 
-        <a href="#" target="_blank">Credits</a>
+        <a href="https://github.com/mayurmarvel/IToolkit#credits" target="_blank">Credits</a>
         </div>
         <p> Made with ❤ by  <a href="https://github.com/mayurmarvel">Mayur</a> </p>
 
