@@ -3,6 +3,7 @@ import '@/styles/globals.css'
 
 
 import Blobs from '@/components/Blobs';
+import Head from 'next/head';
 
 // const inter = Inter({ subsets: ['latin'] })
 import Container from '@mui/material/Container';
@@ -42,7 +43,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <Head>
       <link rel="icon" href="/favicon.ico" sizes="any" />
+      </Head>
       <ThemeProvider theme={themeOptions}>
       <body className="blobWrapper" >
         <Blobs />
