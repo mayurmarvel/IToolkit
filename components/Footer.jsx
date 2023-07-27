@@ -5,7 +5,7 @@ import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import Modal from '@mui/material/Modal';
-import Credits from './Credits';
+
 
 const style = {
     position: 'absolute',
@@ -58,9 +58,9 @@ const Footer = () => {
       </Modal>
 
 
-            <a href="https://github.com/mayurmarvel/IToolkit">Suggest a tool</a>
+        <a href="https://github.com/mayurmarvel/IToolkit">Suggest a tool</a>
 
-            <Credits />
+        <a href="#" target="_blank">Credits</a>
         </div>
         <p> Made with ❤ by  <a href="https://github.com/mayurmarvel">Mayur</a> </p>
 

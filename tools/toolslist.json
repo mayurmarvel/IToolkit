@@ -487,10 +487,23 @@
       "cost": "freemiun",
       "tags": "mail, tools",
       "openCode": "FALSE"
+    },
+    {
+      "siteName": "Snapdrop",
+      "link": "https://snapdrop.net",
+      "description": "Share files between devices on Local Network without Internet",
+      "cost": "free",
+      "tags": "file sharing, tools",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Protonmail",
+      "link": "https://protonmail.com",
+      "description": "Secure email that protects your privacy (Swiss Made)",
+      "cost": "freemium",
+      "tags": "mail, tools, privacy, file",
+      "openCode": "FALSE"
     }
-
-
-
 
 
   ]
