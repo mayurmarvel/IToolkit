@@ -35,10 +35,7 @@ const themeOptions = createTheme({
 });
 
 
-export const metadata = {
-  title: 'Internet Toolkit',
-  description: 'A Curated Compilation of Mighty Online Tools!',
-}
+
 
 export default function RootLayout({ children }) {
   return (
