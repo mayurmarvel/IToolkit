@@ -1,0 +1,496 @@
+[
+    {
+      "siteName": "MagLit",
+      "link": "https://maglit.me/",
+      "description": "A Privacy Respecting Encrypted Link Shortener",
+      "cost": "free",
+      "tags": "privacy, link shortner",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Upscayl",
+      "link": "https://www.upscayl.org/",
+      "description": "A Free and Open Source AI Image Upscaler",
+      "cost": "free",
+      "tags": "Image Tools",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Sniptt",
+      "link": "https://ots.sniptt.com/",
+      "description": "Share end-to-end encrypted secrets with others via a one-time URL",
+      "cost": "free",
+      "tags": "text sharing, privacy ",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Pdf24",
+      "link": "https://tools.pdf24.org/en/",
+      "description": "Free and easy-to-use online PDF tools without any limits!",
+      "cost": "free",
+      "tags": "pdf, tools",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Firefox Relay",
+      "link": "https://relay.firefox.com/",
+      "description": "A service to  Protect your identity with secure phone and email masking",
+      "cost": "freemium",
+      "tags": "privacy, mail masking",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Anonaddy",
+      "link": "https://anonaddy.com/",
+      "description": "Anonymous Email Forwarding Service",
+      "cost": "freemium, self hosted",
+      "tags": "privacy, mail masking",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Adobe Podcast",
+      "link": "https://podcast.adobe.com/",
+      "description": "A free Audio enhancement tool from Adobe!",
+      "cost": "free",
+      "tags": "audio, tools, AI",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "WormHole",
+      "link": "https://wormhole.app/",
+      "description": "It lets you share files with end-to-end encryption and a link that automatically expires.",
+      "cost": "free",
+      "tags": "file sharing, file hosting, privacy",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "OKSO",
+      "link": "https://okso.app/",
+      "description": "A minimalistic online drawing app to express, grasp, and organize your thoughts and ideas",
+      "cost": "free",
+      "tags": "whiteboard, fun, ideas",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Neal",
+      "link": "https://neal.fun/",
+      "description": "A Compilation of Creative Tools & Sites",
+      "cost": "free",
+      "tags": "fun, creative",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Internet Stats",
+      "link": "https://www.internetlivestats.com/",
+      "description": "A Website that shows live statisics about the Internet",
+      "cost": "free",
+      "tags": "data, fun",
+      "openCode": "FALSE"
+    },
+
+    {
+      "siteName": "Boredalot",
+      "link": "https://boredalot.com/1000s-of-boredom-websites/",
+      "description": "Feeling bored ? try these sites",
+      "cost": "free",
+      "tags": "fun, creative",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Pointer Pointer",
+      "link": "https://pointerpointer.com/",
+      "description": "a fun website about Pointer ",
+      "cost": "free",
+      "tags": "fun, creative",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "File Pizza",
+      "link": "https://file.pizza/",
+      "description": "Free peer-to-peer file transfers in your browser.",
+      "cost": "free, self hosted",
+      "tags": "file sharing, privacy",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Pluvior",
+      "link": "http://pluvior.com/",
+      "description": "A free rain sound generator",
+      "cost": "free",
+      "tags": "sounds, relax , music",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Space Email",
+      "link": "https://space.galaxybuster.ne",
+      "description": "A Communication platform that allows for a unique exchange of conversation over space and time",
+      "cost": "freemium",
+      "tags": "privacy, fun",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Useless Website",
+      "link": "https://theuselessweb.com/",
+      "description": "Takes you to a random useless website",
+      "cost": "free",
+      "tags": "fun, creative",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "GoFile",
+      "link": "https://gofile.io/uploadFiles",
+      "description": "File sharing and storage platform, unlimited and free",
+      "cost": "free",
+      "tags": "file sharing, file hosting",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Human Clock",
+      "link": "https://humanclock.com/",
+      "description": "Humans and Clock!",
+      "cost": "free",
+      "tags": "fun, creative",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "SLAVART",
+      "link": "https://slavart.gamesdrive.net/",
+      "description": "Download any song for free in the highest quality!",
+      "cost": "free",
+      "tags": "music, piracy",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "90's TV",
+      "link": "https://www.my90stv.com/",
+      "description": "watch 90's TV shows",
+      "cost": "free",
+      "tags": "fun, creative",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Wttr",
+      "link": "https://wttr.in/",
+      "description": "A console-oriented weather forecast service",
+      "cost": "free",
+      "tags": "weather",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "WEBGL Fluid Simulation",
+      "link": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+      "description": "Play with fluids in your browser (works even on mobile)",
+      "cost": "free, self hosted",
+      "tags": "fun, creative",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "LongBets",
+      "link": "https://longbets.org/predictions/",
+      "description": "Discuss these predictions with the predictors themselves. ",
+      "cost": "free",
+      "tags": "fun, creative",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Rainy Mood",
+      "link": "https://www.rainymood.com/",
+      "description": "Free Rain Sounds for Sleep & Study",
+      "cost": "free",
+      "tags": "sounds, relax , music",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Secure Messaging Apps",
+      "link": "https://www.securemessagingapps.com/",
+      "description": "Comparision of Messaging Apps",
+      "cost": "free",
+      "tags": "privacy, message",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "KyteLink",
+      "link": "https://kytelink.com/",
+      "description": "A decluttered, open source, and free alternative to linktree",
+      "cost": "free, self hosted",
+      "tags": "links",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "MMM Page",
+      "link": "https://mmm.page",
+      "description": "Dead simple, drag & drop websites for anything ",
+      "cost": "freemium",
+      "tags": "website, site builder",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "BeeImg",
+      "link": "https://beeimg.com/",
+      "description": "Free Image hosting site",
+      "cost": "free",
+      "tags": "image sharing, file hosting",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "GoatCounter",
+      "link": "https://www.goatcounter.com/",
+      "description": "GoatCounter is an open source web analytics platform available as a free donation-supported hosted service ",
+      "cost": "free, self hosted",
+      "tags": "web analytics",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "JS Paint",
+      "link": "https://jspaint.app/",
+      "description": "A MS Paint app created using JS",
+      "cost": "free",
+      "tags": "fun, art, creative",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Red Ketchup",
+      "link": "https://redketchup.io/",
+      "description": "A website for converting and editing image and animation files.",
+      "cost": "free",
+      "tags": "productivity, creative, tools",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Href.Li",
+      "link": "https://href.li/",
+      "description": "Create an anonymous link that will hide the HTTP Referer header.",
+      "cost": "free",
+      "tags": "links, privacy",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "PhotoPea",
+      "link": "https://www.photopea.com/",
+      "description": "A photoshop alternative on web",
+      "cost": "free",
+      "tags": "image editing",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Ipaddress.sh",
+      "link": "https://ipaddress.sh/",
+      "description": "A Dead Simple IP Address service",
+      "cost": "free",
+      "tags": "ip, tools",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Crypton",
+      "link": "https://crypton.sh/",
+      "description": "Secure Sim Card in the cloud",
+      "cost": "paid",
+      "tags": "privacy, sms",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Picnic V2",
+      "link": "https://picnic-v2.lecaro.me/",
+      "description": "A collaborative Text Editing and Sharing platform",
+      "cost": "free, self hosted",
+      "tags": "text sharing",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Temp Sh",
+      "link": "https://temp.sh/",
+      "description": "Temporary file upload service",
+      "cost": "free",
+      "tags": "text sharing, file sharing",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "If Config",
+      "link": "https://ifconfig.io/",
+      "description": "shows information about your IP",
+      "cost": "free",
+      "tags": "IP, tools",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "HTML CAFE",
+      "link": "https://html.cafe/",
+      "description": "Create and share HTML sites ",
+      "cost": "free",
+      "tags": "code sharing, site builder",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "JS Check",
+      "link": "https://doihavejavascriptenabled.com/",
+      "description": "A simple static site to tell users whether or not they have Javascript enabled in their web browser",
+      "cost": "free",
+      "tags": "tools",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "TextArea",
+      "link": "https://textarea.cc/",
+      "description": "A Simple Text editor ",
+      "cost": "free",
+      "tags": "text editor",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Vikunja",
+      "link": "https://vikunja.io/",
+      "description": "The open-source, self-hostable to-do app.",
+      "cost": "self hosted",
+      "tags": "tools",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "ExcaliDraw",
+      "link": "https://excalidraw.com/",
+      "description": "An open source virtual hand-drawn style whiteboard.\r\nCollaborative and end-to-end encrypted.",
+      "cost": "free, self hosted",
+      "tags": "tools, white board",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Channel 42",
+      "link": "https://channel42.io/",
+      "description": "A Walkie Talkie service on the Web",
+      "cost": "free",
+      "tags": "tools, audio",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Public Note",
+      "link": "https://publicnote.com/",
+      "description": "Create Public notes",
+      "cost": "free",
+      "tags": "tools, text sharing",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Keep Sh",
+      "link": "https://keep.sh/",
+      "description": "A Dead Simple File Upload System",
+      "cost": "freemium",
+      "tags": "tools, file sharing",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Tixte",
+      "link": "https://tixte.com/",
+      "description": "An easy File sharing service",
+      "cost": "freemium",
+      "tags": "file sharing, tools, files",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "CloudConvert",
+      "link": "https://cloudconvert.com/",
+      "description": "A Online file converter service that supports wide range of files types",
+      "cost": "freemium",
+      "tags": "files, tools",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Invoice Dragon",
+      "link": "https://invoicedragon.com/",
+      "description": "An Opensource free invoice generator for your business!",
+      "cost": "free, selfhosted",
+      "tags": "business, tools",
+      "openCode": "true"
+    },
+    {
+      "siteName": "Icon Buddy",
+      "link": "https://iconbuddy.app/",
+      "description": "Download, Customize, Edit and Personalize. Over 100k+ open source icons",
+      "cost": "free",
+      "tags": "icons, design",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Chat with PDF",
+      "link": "https://chatwithpdf.ai/",
+      "description": "Chat with your PDF files!",
+      "cost": "free",
+      "tags": "pdf, tools, AI",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "lofi radio",
+      "link": "https://lofi.radio/",
+      "description": "A free Lofi radio service",
+      "cost": "free",
+      "tags": "audio, music, relax",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Pdf Gear",
+      "link": "https://www.pdfgear.com/",
+      "description": "Use all PDF tools for completely free and without signing up.",
+      "cost": "free",
+      "tags": "pdf, tools, AI",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Free Illustrations",
+      "link": "https://www.freeillustrations.club/",
+      "description": "A free list of Illustrations for your projects",
+      "cost": "free",
+      "tags": "design, illustrations",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "lofi radio",
+      "link": "https://lofi.radio/",
+      "description": "A free Lofi radio service",
+      "cost": "free",
+      "tags": "audio, music, relax",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Power Hour",
+      "link": "https://getpowerhour.com/",
+      "description": "A free app that helps you kill procrastination.",
+      "cost": "free",
+      "tags": " productivity",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "AnyType",
+      "link": "https://anytype.io/",
+      "description": "Your Notion like Second brain with privacy",
+      "cost": "free",
+      "tags": "productivity, creative, tools, privacy",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "WishTip",
+      "link": "https://wishtip.com/",
+      "description": "Turn Your Wishlist Into Cash",
+      "cost": "freemium",
+      "tags": "finance",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Send Internxt",
+      "link": "https://send.internxt.com/",
+      "description": "another Service to share files with privacy",
+      "cost": "freemiun",
+      "tags": "file sharing, file hosting, privacy",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Internxt Temp Mail",
+      "link": "https://internxt.com/temporary-email",
+      "description": "A Free temporary email receiving service",
+      "cost": "freemiun",
+      "tags": "mail, tools",
+      "openCode": "FALSE"
+    }
+
+
+
+
+
+  ]
