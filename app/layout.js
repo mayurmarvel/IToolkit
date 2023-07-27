@@ -1,5 +1,6 @@
 'use client'
 import '@/styles/globals.css'
+import { Analytics } from '@vercel/analytics/react';
 
 
 import Blobs from '@/components/Blobs';
@@ -42,6 +43,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <Head>
       <link rel="icon" href="/favicon.ico" sizes="any" />
+      <Analytics />
       </Head>
       <ThemeProvider theme={themeOptions}>
       <body className="blobWrapper" >

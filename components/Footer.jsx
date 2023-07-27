@@ -32,7 +32,7 @@ const Footer = () => {
     <>
     <div id="footer-wrapper" className=' flex flex-col items-center mt-10 mb-4 gap-y-5'>
         <div id="foo-links" className=' text-slate-400 flex gap-x-6'>
-            <a href="http://github.com">Github</a>
+            <a href="https://github.com/mayurmarvel/IToolkit">Github</a>
             <button onClick={handleOpen} type="button"> Support</button>
 
         <Modal
@@ -58,11 +58,13 @@ const Footer = () => {
       </Modal>
 
 
-            <a href="http://github.com">Suggest a tool</a>
+            <a href="https://github.com/mayurmarvel/IToolkit">Suggest a tool</a>
 
             <Credits />
         </div>
         <p> Made with ❤ by  <a href="https://github.com/mayurmarvel">Mayur</a> </p>
+
+
     </div>
     </>
   )

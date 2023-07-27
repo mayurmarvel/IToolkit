@@ -14,6 +14,7 @@
     "@mui/icons-material": "^5.14.1",
     "@mui/material": "^5.14.2",
     "@mui/x-data-grid": "^6.10.1",
+    "@vercel/analytics": "^1.0.1",
     "material-react-table": "^1.14.0",
     "next": "13.4.12",
     "react": "18.2.0",
