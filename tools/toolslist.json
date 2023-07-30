@@ -16,11 +16,11 @@
       "openCode": "TRUE"
     },
     {
-      "siteName": "Sniptt",
-      "link": "https://ots.sniptt.com/",
-      "description": "Share end-to-end encrypted secrets with others via a one-time URL",
+      "siteName": "Blackhole (Spotify Alternative)",
+      "link": "https://sangwan5688.github.io/",
+      "description": "Listen to Music Online withouds ads and subscription ",
       "cost": "free",
-      "tags": "text sharing, privacy ",
+      "tags": "music, piracy, android",
       "openCode": "TRUE"
     },
     {
@@ -32,20 +32,28 @@
       "openCode": "FALSE"
     },
     {
-      "siteName": "Firefox Relay",
-      "link": "https://relay.firefox.com/",
-      "description": "A service to  Protect your identity with secure phone and email masking",
-      "cost": "freemium",
-      "tags": "privacy, mail masking",
+      "siteName": "Snapdrop",
+      "link": "https://snapdrop.net",
+      "description": "Share files between devices on Local Network without Internet",
+      "cost": "free",
+      "tags": "file sharing, tools",
       "openCode": "TRUE"
     },
     {
-      "siteName": "Anonaddy",
-      "link": "https://anonaddy.com/",
-      "description": "Anonymous Email Forwarding Service",
-      "cost": "freemium, self hosted",
-      "tags": "privacy, mail masking",
-      "openCode": "TRUE"
+      "siteName": "Chat with PDF",
+      "link": "https://chatwithpdf.ai/",
+      "description": "Chat with your PDF files!",
+      "cost": "free",
+      "tags": "pdf, tools, AI",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "PhotoPea (My Fav)",
+      "link": "https://www.photopea.com/",
+      "description": "A photoshop alternative on web",
+      "cost": "free",
+      "tags": "image editing",
+      "openCode": "FALSE"
     },
     {
       "siteName": "Adobe Podcast",
@@ -97,6 +105,14 @@
       "openCode": "FALSE"
     },
     {
+      "siteName": "Sniptt",
+      "link": "https://ots.sniptt.com/",
+      "description": "Share end-to-end encrypted secrets with others via a one-time URL",
+      "cost": "free",
+      "tags": "text sharing, privacy ",
+      "openCode": "TRUE"
+    },
+    {
       "siteName": "Pointer Pointer",
       "link": "https://pointerpointer.com/",
       "description": "a fun website about Pointer ",
@@ -119,6 +135,14 @@
       "cost": "free",
       "tags": "sounds, relax , music",
       "openCode": "FALSE"
+    },
+    {
+      "siteName": "Anonaddy",
+      "link": "https://anonaddy.com/",
+      "description": "Anonymous Email Forwarding Service",
+      "cost": "freemium, self hosted",
+      "tags": "privacy, mail masking",
+      "openCode": "TRUE"
     },
     {
       "siteName": "Space Email",
@@ -214,6 +238,14 @@
       "description": "A decluttered, open source, and free alternative to linktree",
       "cost": "free, self hosted",
       "tags": "links",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Firefox Relay",
+      "link": "https://relay.firefox.com/",
+      "description": "A service to  Protect your identity with secure phone and email masking",
+      "cost": "freemium",
+      "tags": "privacy, mail masking",
       "openCode": "TRUE"
     },
     {
@@ -489,21 +521,128 @@
       "openCode": "FALSE"
     },
     {
-      "siteName": "Snapdrop",
-      "link": "https://snapdrop.net",
-      "description": "Share files between devices on Local Network without Internet",
-      "cost": "free",
-      "tags": "file sharing, tools",
-      "openCode": "TRUE"
-    },
-    {
       "siteName": "Protonmail",
       "link": "https://protonmail.com",
       "description": "Secure email that protects your privacy (Swiss Made)",
       "cost": "freemium",
       "tags": "mail, tools, privacy, file",
       "openCode": "FALSE"
+    },
+    {
+      "siteName": "Skiff",
+      "link": "https://skiff.com/",
+      "description": "Privacy-first end-to-end encrypted email and Drive. (My fav)",
+      "cost": "freemium",
+      "tags": "mail, file storage, pages, tools, privacy, file",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Blackhole (Spotify Alternative)",
+      "link": "https://sangwan5688.github.io/",
+      "description": "Listen to Music Online withouds ads and subscription ",
+      "cost": "free",
+      "tags": "music, piracy, android",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Subscriptions",
+      "link": "https://play.google.com/store/apps/details?id=de.simolation.subscriptionmanager",
+      "description": "A free App to track your subscriptions",
+      "cost": "free",
+      "tags": "finance, productivity",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "notify.uno",
+      "link": "https://notify.uno/",
+      "description": "Get notified when your commands are done in your terminal",
+      "cost": "free",
+      "tags": "dev, productivity",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Aurora OSS (Playstore Alernative)",
+      "link": "https://gitlab.com/AuroraOSS/AuroraStore/-/releases",
+      "description": "An Free and open-source alternative to Google Play Store with privacy and modern design",
+      "cost": "free",
+      "tags": "tools, android , productivity",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Libre Tube",
+      "link": "https://libre-tube.github.io/",
+      "description": "A Privacy Respecting lightweight youtube client",
+      "cost": "free",
+      "tags": " media, android",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Protected Text",
+      "link": "https://www.protectedtext.com/",
+      "description": "The safest site on the web for storing your text!",
+      "cost": "free",
+      "tags": "tools, text sharing, privacy",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "MyNoise",
+      "link": "https://www.protectedtext.com/",
+      "description": "Discover and create a world of immersive and customizable soundscapes",
+      "cost": "freemium",
+      "tags": "audio, music, relax",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "CollabVM",
+      "link": "https://computernewb.com/collab-vm/",
+      "description": "a website where you can control a computer (virtual machine) from your web browser with stranger",
+      "cost": "freemium",
+      "tags": "audio, music, relax",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "Zoom Escaper",
+      "link": "https://zoomescaper.com/",
+      "description": "Zoom Escaper is a tool to help you escape Zoom meetings and other videoconferencing scenarios",
+      "cost": "free",
+      "tags": "meet, tools, audio, fun",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Ventoy",
+      "link": "https://www.ventoy.net/",
+      "description": "A bootable USB solution for having multiple OSes in a single pendrive",
+      "cost": "free",
+      "tags": "os, tools",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Tldraw",
+      "link": "https://www.tldraw.com/",
+      "description": "A Very good free collaborative whiteboard without login",
+      "cost": "free",
+      "tags": "tools, fun, creativity, productivity",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "PenPot",
+      "link": "https://penpot.app/",
+      "description": "A Figma like Open-Source design & prototyping platform",
+      "cost": "free, selfhost",
+      "tags": "design, illustrations, productivity",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "Screenity",
+      "link": "https://github.com/alyssaxuu/screenity",
+      "description": "The most powerful screen recorder & annotation tool for Chrome",
+      "cost": "free, selfhost",
+      "tags": "tools, illustrations, productivity, video editing",
+      "openCode": "TRUE"
     }
+
+    
+
 
 
   ]

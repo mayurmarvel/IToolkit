@@ -4,7 +4,7 @@ import React, { useMemo , useEffect, useState} from 'react';
 import { MaterialReactTable } from 'material-react-table';
 import data from '@/tools/toolslist.json';
 
-//nested data is ok, see accessorKeys in ColumnDef below
+
 
   const costList = [
     { text: 'free', value: 'free' },
@@ -95,8 +95,10 @@ const ToolsTable = () => {
 
   return <MaterialReactTable
   columns={columns}
-  data={data}
+  // data={data}
   enableFullScreenToggle={false}
+  data={data ?? []} 
+  state={{ showProgressBars: true }} 
 //   enableFacetedValues='true'
 
   muiTopToolbarProps={{
@@ -108,9 +110,13 @@ const ToolsTable = () => {
   }}
 
   muiTableHeadCellProps={{
-    className: ' font-y text-[22px] '    
+    sx: {
+      fontFamily: 'VT323',
+      fontSize: '20px',
+    } 
 
 }}
+
 
   
 />;
