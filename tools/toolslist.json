@@ -639,10 +639,39 @@
       "cost": "free, selfhost",
       "tags": "tools, illustrations, productivity, video editing",
       "openCode": "TRUE"
+    },
+    {
+      "siteName": "Monetal - Expense Tracker",
+      "link": "https://monetal.app/index_en.php",
+      "description": "The application makes it super easy and fun for you to track expenses!",
+      "cost": "free",
+      "tags": "finance,tools",
+      "openCode": "FALSE"
+    },
+    {
+      "siteName": "WeExpire",
+      "link": "https://weexpire.org/",
+      "description": "It is an opensource tool for creating emergency notes that can be read by your trusted contacts only after your death or if you are seriously injured.",
+      "cost": "free,",
+      "tags": "privacy, message, tools, text",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "When.st",
+      "link": "https://when.st/",
+      "description": "Quickly generate and share permalinks to date and time without worrying about timezones and calendar software",
+      "cost": "free",
+      "tags": "productivity, tools",
+      "openCode": "TRUE"
+    },
+    {
+      "siteName": "10015",
+      "link": "https://10015.io",
+      "description": "Various Online Tools in “One Box”",
+      "cost": "free",
+      "tags": "productivity, web,  tools",
+      "openCode": "TRUE"
     }
-
-    
-
 
 
   ]
