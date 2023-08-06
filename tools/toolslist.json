@@ -5,7 +5,7 @@
       "description": "A Privacy Respecting Encrypted Link Shortener",
       "cost": "free",
       "tags": "privacy, link shortner",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Upscayl",
@@ -13,7 +13,7 @@
       "description": "A Free and Open Source AI Image Upscaler",
       "cost": "free",
       "tags": "Image Tools",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Blackhole (Spotify Alternative)",
@@ -21,7 +21,7 @@
       "description": "Listen to Music Online withouds ads and subscription ",
       "cost": "free",
       "tags": "music, piracy, android",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Pdf24",
@@ -29,7 +29,7 @@
       "description": "Free and easy-to-use online PDF tools without any limits!",
       "cost": "free",
       "tags": "pdf, tools",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Snapdrop",
@@ -37,7 +37,7 @@
       "description": "Share files between devices on Local Network without Internet",
       "cost": "free",
       "tags": "file sharing, tools",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Chat with PDF",
@@ -45,7 +45,7 @@
       "description": "Chat with your PDF files!",
       "cost": "free",
       "tags": "pdf, tools, AI",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "PhotoPea (My Fav)",
@@ -53,7 +53,7 @@
       "description": "A photoshop alternative on web",
       "cost": "free",
       "tags": "image editing",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Adobe Podcast",
@@ -61,7 +61,7 @@
       "description": "A free Audio enhancement tool from Adobe!",
       "cost": "free",
       "tags": "audio, tools, AI",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "WormHole",
@@ -69,7 +69,7 @@
       "description": "It lets you share files with end-to-end encryption and a link that automatically expires.",
       "cost": "free",
       "tags": "file sharing, file hosting, privacy",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "OKSO",
@@ -77,7 +77,7 @@
       "description": "A minimalistic online drawing app to express, grasp, and organize your thoughts and ideas",
       "cost": "free",
       "tags": "whiteboard, fun, ideas",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Neal",
@@ -85,7 +85,7 @@
       "description": "A Compilation of Creative Tools & Sites",
       "cost": "free",
       "tags": "fun, creative",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Internet Stats",
@@ -93,7 +93,7 @@
       "description": "A Website that shows live statisics about the Internet",
       "cost": "free",
       "tags": "data, fun",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
 
     {
@@ -102,7 +102,7 @@
       "description": "Feeling bored ? try these sites",
       "cost": "free",
       "tags": "fun, creative",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Sniptt",
@@ -110,7 +110,7 @@
       "description": "Share end-to-end encrypted secrets with others via a one-time URL",
       "cost": "free",
       "tags": "text sharing, privacy ",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Pointer Pointer",
@@ -118,7 +118,7 @@
       "description": "a fun website about Pointer ",
       "cost": "free",
       "tags": "fun, creative",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "File Pizza",
@@ -126,7 +126,7 @@
       "description": "Free peer-to-peer file transfers in your browser.",
       "cost": "free, self hosted",
       "tags": "file sharing, privacy",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Pluvior",
@@ -134,7 +134,7 @@
       "description": "A free rain sound generator",
       "cost": "free",
       "tags": "sounds, relax , music",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Anonaddy",
@@ -142,7 +142,7 @@
       "description": "Anonymous Email Forwarding Service",
       "cost": "freemium, self hosted",
       "tags": "privacy, mail masking",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Space Email",
@@ -150,7 +150,7 @@
       "description": "A Communication platform that allows for a unique exchange of conversation over space and time",
       "cost": "freemium",
       "tags": "privacy, fun",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Useless Website",
@@ -158,7 +158,7 @@
       "description": "Takes you to a random useless website",
       "cost": "free",
       "tags": "fun, creative",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "GoFile",
@@ -166,7 +166,7 @@
       "description": "File sharing and storage platform, unlimited and free",
       "cost": "free",
       "tags": "file sharing, file hosting",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Human Clock",
@@ -174,7 +174,7 @@
       "description": "Humans and Clock!",
       "cost": "free",
       "tags": "fun, creative",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "SLAVART",
@@ -182,7 +182,7 @@
       "description": "Download any song for free in the highest quality!",
       "cost": "free",
       "tags": "music, piracy",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "90's TV",
@@ -190,7 +190,7 @@
       "description": "watch 90's TV shows",
       "cost": "free",
       "tags": "fun, creative",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Wttr",
@@ -198,7 +198,7 @@
       "description": "A console-oriented weather forecast service",
       "cost": "free",
       "tags": "weather",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "WEBGL Fluid Simulation",
@@ -206,7 +206,7 @@
       "description": "Play with fluids in your browser (works even on mobile)",
       "cost": "free, self hosted",
       "tags": "fun, creative",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "LongBets",
@@ -214,7 +214,7 @@
       "description": "Discuss these predictions with the predictors themselves. ",
       "cost": "free",
       "tags": "fun, creative",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Rainy Mood",
@@ -222,7 +222,7 @@
       "description": "Free Rain Sounds for Sleep & Study",
       "cost": "free",
       "tags": "sounds, relax , music",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Secure Messaging Apps",
@@ -230,7 +230,7 @@
       "description": "Comparision of Messaging Apps",
       "cost": "free",
       "tags": "privacy, message",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "KyteLink",
@@ -238,7 +238,7 @@
       "description": "A decluttered, open source, and free alternative to linktree",
       "cost": "free, self hosted",
       "tags": "links",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Firefox Relay",
@@ -246,7 +246,7 @@
       "description": "A service to  Protect your identity with secure phone and email masking",
       "cost": "freemium",
       "tags": "privacy, mail masking",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "MMM Page",
@@ -254,7 +254,7 @@
       "description": "Dead simple, drag & drop websites for anything ",
       "cost": "freemium",
       "tags": "website, site builder",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "BeeImg",
@@ -262,7 +262,7 @@
       "description": "Free Image hosting site",
       "cost": "free",
       "tags": "image sharing, file hosting",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "GoatCounter",
@@ -270,7 +270,7 @@
       "description": "GoatCounter is an open source web analytics platform available as a free donation-supported hosted service ",
       "cost": "free, self hosted",
       "tags": "web analytics",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "JS Paint",
@@ -278,7 +278,7 @@
       "description": "A MS Paint app created using JS",
       "cost": "free",
       "tags": "fun, art, creative",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Red Ketchup",
@@ -286,7 +286,7 @@
       "description": "A website for converting and editing image and animation files.",
       "cost": "free",
       "tags": "productivity, creative, tools",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Href.Li",
@@ -294,15 +294,7 @@
       "description": "Create an anonymous link that will hide the HTTP Referer header.",
       "cost": "free",
       "tags": "links, privacy",
-      "openCode": "FALSE"
-    },
-    {
-      "siteName": "PhotoPea",
-      "link": "https://www.photopea.com/",
-      "description": "A photoshop alternative on web",
-      "cost": "free",
-      "tags": "image editing",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Ipaddress.sh",
@@ -310,7 +302,7 @@
       "description": "A Dead Simple IP Address service",
       "cost": "free",
       "tags": "ip, tools",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Crypton",
@@ -318,7 +310,7 @@
       "description": "Secure Sim Card in the cloud",
       "cost": "paid",
       "tags": "privacy, sms",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Picnic V2",
@@ -326,7 +318,7 @@
       "description": "A collaborative Text Editing and Sharing platform",
       "cost": "free, self hosted",
       "tags": "text sharing",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Temp Sh",
@@ -334,7 +326,7 @@
       "description": "Temporary file upload service",
       "cost": "free",
       "tags": "text sharing, file sharing",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "If Config",
@@ -342,7 +334,7 @@
       "description": "shows information about your IP",
       "cost": "free",
       "tags": "IP, tools",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "HTML CAFE",
@@ -350,7 +342,7 @@
       "description": "Create and share HTML sites ",
       "cost": "free",
       "tags": "code sharing, site builder",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "JS Check",
@@ -358,7 +350,7 @@
       "description": "A simple static site to tell users whether or not they have Javascript enabled in their web browser",
       "cost": "free",
       "tags": "tools",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "TextArea",
@@ -366,7 +358,7 @@
       "description": "A Simple Text editor ",
       "cost": "free",
       "tags": "text editor",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Vikunja",
@@ -374,7 +366,7 @@
       "description": "The open-source, self-hostable to-do app.",
       "cost": "self hosted",
       "tags": "tools",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "ExcaliDraw",
@@ -382,7 +374,7 @@
       "description": "An open source virtual hand-drawn style whiteboard.\r\nCollaborative and end-to-end encrypted.",
       "cost": "free, self hosted",
       "tags": "tools, white board",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Channel 42",
@@ -390,7 +382,7 @@
       "description": "A Walkie Talkie service on the Web",
       "cost": "free",
       "tags": "tools, audio",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Public Note",
@@ -398,7 +390,7 @@
       "description": "Create Public notes",
       "cost": "free",
       "tags": "tools, text sharing",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Keep Sh",
@@ -406,7 +398,7 @@
       "description": "A Dead Simple File Upload System",
       "cost": "freemium",
       "tags": "tools, file sharing",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Tixte",
@@ -414,7 +406,7 @@
       "description": "An easy File sharing service",
       "cost": "freemium",
       "tags": "file sharing, tools, files",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "CloudConvert",
@@ -422,15 +414,15 @@
       "description": "A Online file converter service that supports wide range of files types",
       "cost": "freemium",
       "tags": "files, tools",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Invoice Dragon",
       "link": "https://invoicedragon.com/",
       "description": "An Opensource free invoice generator for your business!",
-      "cost": "free, selfhosted",
+      "cost": "free, selfhost",
       "tags": "business, tools",
-      "openCode": "true"
+      "isOpenSource": "true"
     },
     {
       "siteName": "Icon Buddy",
@@ -438,7 +430,7 @@
       "description": "Download, Customize, Edit and Personalize. Over 100k+ open source icons",
       "cost": "free",
       "tags": "icons, design",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Chat with PDF",
@@ -446,7 +438,7 @@
       "description": "Chat with your PDF files!",
       "cost": "free",
       "tags": "pdf, tools, AI",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "lofi radio",
@@ -454,7 +446,7 @@
       "description": "A free Lofi radio service",
       "cost": "free",
       "tags": "audio, music, relax",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Pdf Gear",
@@ -462,7 +454,7 @@
       "description": "Use all PDF tools for completely free and without signing up.",
       "cost": "free",
       "tags": "pdf, tools, AI",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Free Illustrations",
@@ -470,7 +462,7 @@
       "description": "A free list of Illustrations for your projects",
       "cost": "free",
       "tags": "design, illustrations",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "lofi radio",
@@ -478,7 +470,7 @@
       "description": "A free Lofi radio service",
       "cost": "free",
       "tags": "audio, music, relax",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Power Hour",
@@ -486,7 +478,7 @@
       "description": "A free app that helps you kill procrastination.",
       "cost": "free",
       "tags": " productivity",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "AnyType",
@@ -494,7 +486,7 @@
       "description": "Your Notion like Second brain with privacy",
       "cost": "free",
       "tags": "productivity, creative, tools, privacy",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "WishTip",
@@ -502,7 +494,7 @@
       "description": "Turn Your Wishlist Into Cash",
       "cost": "freemium",
       "tags": "finance",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Send Internxt",
@@ -510,7 +502,7 @@
       "description": "another Service to share files with privacy",
       "cost": "freemiun",
       "tags": "file sharing, file hosting, privacy",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Internxt Temp Mail",
@@ -518,7 +510,7 @@
       "description": "A Free temporary email receiving service",
       "cost": "freemiun",
       "tags": "mail, tools",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Protonmail",
@@ -526,7 +518,7 @@
       "description": "Secure email that protects your privacy (Swiss Made)",
       "cost": "freemium",
       "tags": "mail, tools, privacy, file",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Skiff",
@@ -534,7 +526,7 @@
       "description": "Privacy-first end-to-end encrypted email and Drive. (My fav)",
       "cost": "freemium",
       "tags": "mail, file storage, pages, tools, privacy, file",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Blackhole (Spotify Alternative)",
@@ -542,7 +534,7 @@
       "description": "Listen to Music Online withouds ads and subscription ",
       "cost": "free",
       "tags": "music, piracy, android",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Subscriptions",
@@ -550,7 +542,7 @@
       "description": "A free App to track your subscriptions",
       "cost": "free",
       "tags": "finance, productivity",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "notify.uno",
@@ -558,7 +550,7 @@
       "description": "Get notified when your commands are done in your terminal",
       "cost": "free",
       "tags": "dev, productivity",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Aurora OSS (Playstore Alernative)",
@@ -566,7 +558,7 @@
       "description": "An Free and open-source alternative to Google Play Store with privacy and modern design",
       "cost": "free",
       "tags": "tools, android , productivity",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Libre Tube",
@@ -574,7 +566,7 @@
       "description": "A Privacy Respecting lightweight youtube client",
       "cost": "free",
       "tags": " media, android",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Protected Text",
@@ -582,7 +574,7 @@
       "description": "The safest site on the web for storing your text!",
       "cost": "free",
       "tags": "tools, text sharing, privacy",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "MyNoise",
@@ -590,7 +582,7 @@
       "description": "Discover and create a world of immersive and customizable soundscapes",
       "cost": "freemium",
       "tags": "audio, music, relax",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "CollabVM",
@@ -598,7 +590,7 @@
       "description": "a website where you can control a computer (virtual machine) from your web browser with stranger",
       "cost": "freemium",
       "tags": "audio, music, relax",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "Zoom Escaper",
@@ -606,7 +598,7 @@
       "description": "Zoom Escaper is a tool to help you escape Zoom meetings and other videoconferencing scenarios",
       "cost": "free",
       "tags": "meet, tools, audio, fun",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Ventoy",
@@ -614,7 +606,7 @@
       "description": "A bootable USB solution for having multiple OSes in a single pendrive",
       "cost": "free",
       "tags": "os, tools",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Tldraw",
@@ -622,7 +614,7 @@
       "description": "A Very good free collaborative whiteboard without login",
       "cost": "free",
       "tags": "tools, fun, creativity, productivity",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "PenPot",
@@ -630,7 +622,7 @@
       "description": "A Figma like Open-Source design & prototyping platform",
       "cost": "free, selfhost",
       "tags": "design, illustrations, productivity",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Screenity",
@@ -638,7 +630,7 @@
       "description": "The most powerful screen recorder & annotation tool for Chrome",
       "cost": "free, selfhost",
       "tags": "tools, illustrations, productivity, video editing",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "Monetal - Expense Tracker",
@@ -646,15 +638,15 @@
       "description": "The application makes it super easy and fun for you to track expenses!",
       "cost": "free",
       "tags": "finance,tools",
-      "openCode": "FALSE"
+      "isOpenSource": "FALSE"
     },
     {
       "siteName": "WeExpire",
       "link": "https://weexpire.org/",
       "description": "It is an opensource tool for creating emergency notes that can be read by your trusted contacts only after your death or if you are seriously injured.",
-      "cost": "free,",
+      "cost": "free",
       "tags": "privacy, message, tools, text",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "When.st",
@@ -662,7 +654,7 @@
       "description": "Quickly generate and share permalinks to date and time without worrying about timezones and calendar software",
       "cost": "free",
       "tags": "productivity, tools",
-      "openCode": "TRUE"
+      "isOpenSource": "TRUE"
     },
     {
       "siteName": "10015",
@@ -670,8 +662,66 @@
       "description": "Various Online Tools in “One Box”",
       "cost": "free",
       "tags": "productivity, web,  tools",
+      "isOpenSource": "TRUE"
+    },
+    {
+      "siteName": "Qbittorent",
+      "link": "https://www.qbittorrent.org/",
+      "description": "An Opensource & Adfree torrent client for desktops",
+      "cost": "free",
+      "tags": "privacy, fun, entertainment, tools",
+      "isOpenSource": "TRUE"
+    },
+    {
+      "siteName": "Mortix - Download Manager",
+      "link": "https://motrix.app/",
+      "description": "A Clean, Opensource & Adfree download Manager & torrent client for desktops",
+      "cost": "free",
+      "tags": "privacy, fun, entertainment, tools, productivity",
+      "isOpenSource": "TRUE"
+    },
+    {
+      "siteName": "YT downloader",
+      "link": "https://github.com/Tyrrrz/YoutubeDownloader",
+      "description": "An Opensource free youtube downloader",
+      "cost": "free",
+      "tags": "privacy, fun, entertainment, tools",
+      "isOpenSource": "TRUE"
+    },
+    {
+      "siteName": "Unlimited gmail trick",
+      "link": "https://generator.email/blog/gmail-generator",
+      "description": "A legit trick to create unlimited gmail addresses using a single gmail.",
+      "cost": "free",
+      "tags": "fun, tools",
+      "isOpenSource": "TRUE"
+    },
+    {
+      "siteName": "Sqoosh",
+      "link": "https://squoosh.app/",
+      "description": "A free image compressor",
+      "cost": "free, selfhost",
+      "tags": "image editing, tools, productivity",
+      "isOpenSource": "TRUE"
+    },
+    {
+      "siteName": "class Central",
+      "link": "https://www.classcentral.com/",
+      "description": "Find the best free courses, wherever they exist",
+      "cost": "free",
+      "tags": "education",
+      "isOpenSource": "TRUE"
+    },
+    {
+      "siteName": "Sqoosh",
+      "link": "https://squoosh.app/",
+      "description": "A free image compressor",
+      "cost": "free",
+      "tags": "image editing, tools, productivity",
       "openCode": "TRUE"
     }
+
+
 
 
   ]
